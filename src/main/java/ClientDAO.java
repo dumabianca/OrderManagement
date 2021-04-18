@@ -8,11 +8,7 @@ import java.sql.Statement;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * @Author: Technical University of Cluj-Napoca, Romania Distributed Systems
- *          Research Laboratory, http://dsrl.coned.utcluj.ro/
- * @Since: Apr 03, 2017
- */
+
 public class ClientDAO {
 
     protected static final Logger LOGGER = Logger.getLogger(ClientDAO.class.getName());
